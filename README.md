@@ -1,5 +1,4 @@
 # Computer Vision Project-3
-### Satyam Kalra, Rashi Tiwary, Jahnavi Ramagiri
 
 ## Introduction
 
